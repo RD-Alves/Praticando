@@ -1,0 +1,17 @@
+th{
+    margin: 3px;
+    padding: 5px;
+    background-color: rgb(7, 114, 177);
+    border: solid 2px black;
+    font-style: normal; color: #ffffff;
+}
+td{
+    margin: 1px;
+    padding: 5px;
+    background-color: rgb(7, 114, 177);
+    border: solid 2px black;
+    font-style: normal; color: #ffffff;
+}
+.page-description spam{
+    color: #ffffff;
+}
